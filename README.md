@@ -4,7 +4,7 @@ Scripts to command the HV and FEB boards of the Hyper-Kamiokande mPMTs detectors
 
 ## FEB_firmware
 
-- The HK.. files ending in .hex are the FEB microcontroller firmwares, the latest one to use is HKL031V4A.hex, to program the FEB use reprogram_FEBs.py. Use
+- The HK.. files ending in .hex are the FEB microcontroller firmwares, the latest one to use is HKL031V4B.hex, to program the FEB use reprogram_FEBs.py. Use
 ```sh
 reprogram_FEBs.py --help
 ```
